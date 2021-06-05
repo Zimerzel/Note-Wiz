@@ -33,6 +33,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 * [Usage](#usage)
 * [Credits](#credits)
 * [Questions](#questions)
+* [Deployment](#deployment)
 
 ## Installation
 
@@ -53,3 +54,6 @@ Contact me with any questions:
 
 Email : Zach.imerzel@gmail.com
 Github : https://github.com/Zimerzel
+
+## Deployment
+https://pacific-wave-18049.herokuapp.com/

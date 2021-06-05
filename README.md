@@ -1,5 +1,7 @@
 # Note-Wiz
 
+![note taker](https://user-images.githubusercontent.com/79726069/120904859-1f32ca80-c614-11eb-9e91-4af14d77b080.PNG)
+
 ## Description
 A node.js application that takes user input to create and manage notes.
 
